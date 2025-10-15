@@ -1,14 +1,11 @@
-// Program: Coding
-
 #include <iostream>
-// #include <conio.h>
+#include <conio.h>
 
-using namespace std;
-int main()
+void main()
 {
     int a[100], n, beg, end, mid, data;
 
-    // clrscr();
+    clrscr();
     cout << "Enter number of elements: ";
     cin >> n;
 
@@ -41,6 +38,5 @@ int main()
     else
         cout << "\nData is not found";
 
-    // getch();
-    return 0;
+    getch();
 }
