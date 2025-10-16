@@ -46,3 +46,13 @@ void main()
     postorder(root);
     getch();
 }
+
+/*
+*OUTPUT:
+
+Enter the data for root: 10
+Enter data for left child: 20
+Enter data for right child: 30
+20      30      10
+
+*/

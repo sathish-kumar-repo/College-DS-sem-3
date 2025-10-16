@@ -28,3 +28,22 @@ void main()
 
     getch();
 }
+
+/*
+*OUTPUT:
+
+Enter total number of elements: 5
+Enter array elements:
+27
+79
+7
+32
+18
+Sorted data:
+7
+18
+27
+32
+79
+
+*/

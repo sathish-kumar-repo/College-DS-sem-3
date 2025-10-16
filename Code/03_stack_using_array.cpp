@@ -67,3 +67,30 @@ void main()
 
     } while (ch <= 3);
 }
+
+/*
+*OUTPUT:
+
+1. Push  2. Pop  3. Display  4. Exit
+1
+Enter item: 10
+1. Push  2. Pop  3. Display  4. Exit
+1
+Enter item: 20
+1. Push  2. Pop  3. Display  4. Exit
+3
+20
+10
+1. Push  2. Pop  3. Display  4. Exit
+2
+Element is deleted: 20
+1. Push  2. Pop  3. Display  4. Exit
+2
+Element is deleted: 10
+1. Push  2. Pop  3. Display  4. Exit
+2
+No item in the stack
+1. Push  2. Pop  3. Display  4. Exit
+4
+
+*/

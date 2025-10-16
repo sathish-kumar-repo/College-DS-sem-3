@@ -39,3 +39,23 @@ void main()
 
     getch();
 }
+
+/*
+*OUTPUT:
+
+enter array size: 5
+enter array elements
+32
+65
+23
+54
+42
+sorting array using insertion sort
+array after sorting
+23
+32
+42
+54
+65
+
+*/

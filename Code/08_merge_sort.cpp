@@ -57,3 +57,22 @@ void merge(int low, int mid, int high)
     for (int k = low; k <= high; k++)
         a[k] = b[k];
 }
+
+/*
+*OUTPUT:
+
+Enter total no: 5
+Enter array elements:
+74
+92
+69
+17
+40
+Sorting order:
+17
+40
+69
+74
+92
+
+*/

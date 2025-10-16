@@ -96,3 +96,32 @@ void main()
 
     getch();
 }
+
+/*
+*OUTPUT:
+
+1.insert 2.remove 3.display 4.exit
+1
+enter item
+10
+1.insert 2.remove 3.display 4.exit
+1
+enter item
+20
+1.insert 2.remove 3.display 4.exit
+3
+10
+20
+1.insert 2.remove 3.display 4.exit
+2
+Deleted 10
+1.insert 2.remove 3.display 4.exit
+2
+Deleted 20
+1.insert 2.remove 3.display 4.exit
+2
+queue is empty
+1.insert 2.remove 3.display 4.exit
+4
+
+*/

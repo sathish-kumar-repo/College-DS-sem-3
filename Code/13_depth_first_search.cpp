@@ -44,3 +44,41 @@ void main()
 
     getch();
 }
+
+/*
+*OUTPUT:
+
+Enter number of nodes: 6
+
+Enter adjacency matrix:
+0 1 1 1 0 0
+1 0 0 0 0 0
+1 0 0 0 0 1
+1 0 0 0 1 0
+0 0 0 1 0 0
+0 0 1 0 0 0
+Visit: 1
+Visit: 2
+Visit: 3
+Visit: 6
+Visit: 4
+Visit: 5
+
+*/
+
+/*
+*ANOTHER OUTPUT:
+
+Enter number of nodes: 4
+Enter adjacency matrix:
+0 1 1 0
+1 0 0 1
+1 0 0 1
+0 1 1 0
+
+Visit: 1
+Visit: 2
+Visit: 4
+Visit: 3
+
+*/

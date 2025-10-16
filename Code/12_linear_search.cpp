@@ -30,3 +30,19 @@ void main()
     cout << "\nElement is not found.";
     getch();
 }
+
+/*
+*OUTPUT:
+
+Enter number of elements: 3
+
+Enter array elements:
+79
+80
+100
+
+Enter search element: 80
+
+Element is found.
+
+*/

@@ -40,3 +40,26 @@ void main()
 
     getch();
 }
+
+/*
+*OUTPUT: 1
+
+Enter number of elements: 3
+Enter array elements in sorted order: 10
+20
+30
+Enter data you want to search: 20
+
+Data is found
+
+*OUTPUT: 2
+
+Enter number of elements: 3
+Enter array elements in sorted order: 10
+20
+30
+Enter data you want to search: 70
+
+Data is not found
+
+*/

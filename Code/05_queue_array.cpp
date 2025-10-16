@@ -73,3 +73,29 @@ void main()
 
     getch();
 }
+
+/*
+*OUTPUT:
+
+1.enqueue 2.dequeue 3.display 4.exit
+1
+enter item to insert
+10
+1.enqueue 2.dequeue 3.display 4.exit
+1
+enter item to insert
+20
+1.enqueue 2.dequeue 3.display 4.exit
+3
+10
+20
+1.enqueue 2.dequeue 3.display 4.exit
+2
+Deleted 10
+1.enqueue 2.dequeue 3.display 4.exit
+2
+Deleted 20
+1.enqueue 2.dequeue 3.display 4.exit
+4
+
+*/
