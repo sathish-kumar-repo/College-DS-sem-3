@@ -1,2 +1,4 @@
 .vscode
 *.exe
+files.json
+main.py
